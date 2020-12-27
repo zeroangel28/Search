@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Search</string>
+    <string name="user_finder">User finder</string>
+    <string name="limite_error">Rate Limit, please wait!</string>
+</resources>
